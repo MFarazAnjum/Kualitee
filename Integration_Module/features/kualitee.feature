@@ -35,7 +35,7 @@ Feature: Kualitee Setting Module
   Scenario: add a new role and move to edit role page and verify
     Then Manage Roles page will be open and checked
     And click create role button
-    And enter roleName "asdfwq" and Description "rewqwer"
+    And enter roleName "asdfwqsd" and Description "rewqwasder"
     And click save button
     Then verify edit role page is landed
 
