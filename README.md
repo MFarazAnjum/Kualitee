@@ -1,6 +1,7 @@
 # kualitee
 
-Use below command to run the feature file without reporting
+Use below command to run the feature file without reporting: 
+
 behave Integration_Module/features/kualitee.feature
 
 Use below command to generate allure report.
